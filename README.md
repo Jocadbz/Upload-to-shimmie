@@ -1,6 +1,6 @@
 # Shimmie2 GraphQL Uploader
 
-This Python script allows you to upload images to a Shimmie2 booru instance using its GraphQL API.
+This Python script allows you to upload images to a Shimmie2 booru instance using its GraphQL API. (test)
 
 Any other API method does not work and/or is undocumented.
 
